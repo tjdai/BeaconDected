@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/092cd398f02465577e7ba8bf6be81f258177247f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/classes_465fd5f83bf21445a54a40328006f2ac6a5905aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_4dbaeb203df8ae513a5e0823dde133928f065c9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/1748a0c616c5ebdf36296f21c03ea82553292414/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e50acb691cf907aa7f55ab72ec4a0c7e8550c4c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/cdcde3fea940949c50e5cb8019ab0ebc5c41e313/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/classes_c665d067fca08705ac9ae5d7da12c118213815b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/88bffdf4491e93a9286a977a5a2a5a156725a6e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/classes_646e321ea3e7b994dde266a91ef011b18767b5da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/a6c518aaba15c0fbdc9c311e7d29edc18d48a742/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/classes_12f2b3499f596b4c99a8ef1a4a0e0b6493a13332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/8d92c6bfd647501c3ec9c714c7790ad22c67f56f/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8b7dac79fde9f982130afa5b581eac4a91eecccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/87fb9438f4f4bd9c1216288857cafe63221633e2/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f9388625f1af9bd74e1bd12749fcaffc03419139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/8050d57a040461cddde21b63b0b3370a6b3f04c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/classes_9f12df2af9522c9dd657d95f56f3ba9588269365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/2573dfcbc5afc2c3715d6e130dfd0ea47032abc3/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8d4db851598ff6b58e40f4f8c971312906851005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/1f7cd031c46feac05771855ed161ca6a489ef38a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/classes_d07c5acb3372382a67e8089056394ceadb7e2122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/2573dfcbc5afc2c3715d6e130dfd0ea47032abc3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/classes_e0c9d34d8bd315fc569d7dc515bea895fafd5556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/092cd398f02465577e7ba8bf6be81f258177247f/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_02777e972e3a5d58f1c9ef0f33c99094970c6116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/8d92c6bfd647501c3ec9c714c7790ad22c67f56f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/classes_3ccf7f700c09701e547448ba724fb7d84933385a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/212d8b59cdc7a3c8d1b6d4c3092fbaf5e73d6800/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/classes_aa2073c736e10999443393164a648a2212a73fb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/87fb9438f4f4bd9c1216288857cafe63221633e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/classes_679c3f39ef0b431427c48996efef54fc885c8327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/1748a0c616c5ebdf36296f21c03ea82553292414/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/classes_0cab5a20be15550457f363827ebd9be7831da724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tjdai/.android/build-cache/1f7cd031c46feac05771855ed161ca6a489ef38a/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_57365e2a643bf19ea285a91700294d790c8d56e4.jar" />
+    </item>
+
+</items>

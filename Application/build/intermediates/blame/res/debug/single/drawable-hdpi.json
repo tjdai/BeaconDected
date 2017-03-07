@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_refresh.png",
+        "source": "/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/tjdai/AndroidStudioProjects/BeaconDected/Application/src/main/res/drawable-hdpi/tile.9.png"
+    }
+]
